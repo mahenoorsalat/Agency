@@ -1,6 +1,6 @@
 # DevOps Agency Website
 
-![DevOps Agency Banner](https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg)
+![DevOps Agency Banner](https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 Welcome to the repository for our **DevOps Agency Website**. This project showcases a professional and minimalist web design, tailored for our DevOps agency. The site is designed to be clean, simple, and user-friendly, with a focus on providing clear information and easy scheduling through Calendly integration.
 
@@ -24,4 +24,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/SalatMahenoor/DevOps-Agency-Website.git
+   git clone https://github.com/mahenoorsalat/Agency.git
