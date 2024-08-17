@@ -48,8 +48,8 @@ nav input {
     transition: color 0.3s ease, border-bottom 0.3s ease, transform 0.3s ease;
     font-size: 24px;
     font-weight: 500;
-    
-    
+
+
 }
 
 
@@ -65,9 +65,9 @@ nav input {
 
 .active {
     color: aqua;
-  border-radius: 7px;
+    border-radius: 7px;
     border-bottom: 2px solid aqua;
-    
+
 }
 
 
@@ -591,7 +591,8 @@ nav input {
 .info-test1 {
     margin: 11px 223px 76px 241px;
 }
-.checkbtn{
+
+.checkbtn {
     display: none;
 }
 
@@ -739,7 +740,7 @@ nav input {
 }
 
 
-@media only screen and (max-width: 1024px) and (min-width: 420px){
+@media only screen and (max-width: 1024px) and (min-width: 420px) {
 
     html,
     body {
@@ -749,9 +750,11 @@ nav input {
         padding: 0;
         overflow-x: hidden;
     }
-.let img{
-    width: 80%;
-}
+
+    .let img {
+        width: 80%;
+    }
+
     nav input {
         display: none;
 
@@ -1300,7 +1303,7 @@ nav input {
     }
 
     #testimonials {
-        height: 2622px;
+        height: 2702px;
         color: white;
         background-color: rgb(44, 42, 42);
     }
@@ -1472,5 +1475,3 @@ nav input {
         flex-direction: column;
     }
 }
-
-
